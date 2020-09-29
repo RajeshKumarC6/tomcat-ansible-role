@@ -122,3 +122,4 @@ Change it to "True" to uninstall Java after tomcat is uninstalled.
   * `tomcat_uninstall_remove_group`: True
 - `tomcat_uninstall_remove_all`: False   
 In order to override the above values and uninstall everything, set it to "True".
+
